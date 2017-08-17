@@ -1,0 +1,2 @@
+ipython2 notebook
+
