@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: UTF-8 -*-
 
-# Essentia: python 2
+# python2 because Essentia
 
 import os
 import sys
